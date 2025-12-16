@@ -4,7 +4,6 @@ Kyungpook National University July 2024 hlmando indian internship
 
 # AUTOSAR LED Blink (S32K146) — AUTOSAR vs Non-AUTOSAR 비교 구현
 
-![LED Blinking with AUTOSAR](LED%20Blinking%20with%20Autosar.png)
 
 - **기간**: 2024.07 ~ 2024.08  
 - **구분**: HL만도 인도 인턴십 과제 
